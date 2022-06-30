@@ -7,7 +7,7 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={zxccxz579})](https://solved.ac/{zxccxz570})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={zxccxz570})](https://solved.ac/{zxccxz570})
 
 <!--
 **rararu/rararu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
